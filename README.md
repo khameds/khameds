@@ -10,6 +10,10 @@ Je suis un développeur logiciel et formateur en informatique freelance. J'ai un
   - Java (projets universitaires et avec le framework Spring)
   - JavaScript (pour le développement web)
   - HTML et CSS (pour la création de sites web)
+- Même si on pourrait penser que "Debugger c'est douter", je maitrise les outils de test et d'automatisation des tests suivants :
+  - Postman (Tests d'API)
+  - Cypress (Tests d'application web)
+  - JUnit (Tests unitaires Java)
 - J'ai également des notions sur les frameworks et librairies suivants :
   - Spring (pour le développement Java)
   - Node.js (pour le développement côté serveur)
