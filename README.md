@@ -1,6 +1,6 @@
 # Bonjour, je suis Smaïl KHAMED👋
 
-Je suis un développeur logiciel et formateur en informatique freelance. J'ai une passion pour la programmation et j'aime partager mes connaissances avec les autres. Voici quelques points clés à mon sujet :
+Je suis un développeur logiciel et formateur en informatique freelance. J'ai une passion pour l'algorithmique ainsi que la programmation et j'aime par dessus tout partager des connaissances avec les autres. Voici quelques points clés à mon sujet :
 
 ## À propos de moi😄
 
@@ -21,9 +21,9 @@ Je suis un développeur logiciel et formateur en informatique freelance. J'ai un
 - 🔗 TER : Projet de 3mois réalisé en total autonomie en fin de 1ere année de Master DSC. Porte sur la création d'agents intelligents par apprentissage renforcé (Curriculum learning) à l'aide du moteur [Unity](https://unity.com/fr) et du toolkit [ML-Agents](https://unity-technologies.github.io/ml-agents/ML-Agents-Overview/).
     
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![C#](https://img.shields.io/badge/Unity-%23239120.svg?&style=for-the-badge&logo=unity&logoColor=white)
-  ![C#](https://img.shields.io/badge/Python-%23239120.svg?&style=for-the-badge&logo=python&logoColor=white)
-  ![C#](https://img.shields.io/badge/TensorFlow-%23239120.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![C#](https://img.shields.io/badge/Unity-black.svg?&style=for-the-badge&logo=unity&logoColor=white)
+  ![C#](https://img.shields.io/badge/Python-4584b6.svg?&style=for-the-badge&logo=python&logoColor=white)
+  ![C#](https://img.shields.io/badge/TensorFlow-orange.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
 - 🔗 [Edit distance](https://github.com/khameds/algoM1) : Implémentation de différents algorithmes pour calculer la distance d'édition de brins d'adn.
@@ -33,7 +33,7 @@ Je suis un développeur logiciel et formateur en informatique freelance. J'ai un
   - Dynamic programming
 
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-![Java](https://img.shields.io/badge/Algorithmique-%23ED8B00.svg?&style=for-the-badge&logo=algo&logoColor=white)
+![Java](https://img.shields.io/badge/Algorithmique-%646464.svg?&style=for-the-badge&logo=algo&logoColor=white)
 
 
 - 🔗[Vigen.R](https://github.com/ChrisJeamme/Vigen.R) : [Version déployée](https://chrisjeamme.github.io/Vigen.R/) de la cryptanalyse du chiffre de Vigenère et implémentantation en JavaScript deux de ses attaques :
@@ -50,14 +50,14 @@ Je suis un développeur logiciel et formateur en informatique freelance. J'ai un
   - Jeu vidéo en 2D réaliser sur le moteur de jeu Unity, dans lequel le héros que nous contrôlons doit tuer des ennemis en essayant de ne pas se faire tuer par ces derniers. Le joueur joue seul, et les ennemis sont contrôlés par l’intelligence artificielle.
     
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![C#](https://img.shields.io/badge/Unity-%23239120.svg?&style=for-the-badge&logo=unity&logoColor=white)
+  ![C#](https://img.shields.io/badge/Unity-black.svg?&style=for-the-badge&logo=unity&logoColor=white)
 
 
 - 🔗[Compilateur](https://github.com/khameds/compilateur_cpyrr) : Projet Universitaire : \
 Réalisation d'un compilateur pour le langage CPYRR (tout aussi créatif que Microsoft lorsqu'il est question de nommer notre langage 😄) à l'aide notament de l'analyseur synthaxique Yacc.
     
   ![C](https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
-  ![C](https://img.shields.io/badge/Yacc-%2300599C.svg?&style=for-the-badge&logo=yacc&logoColor=white)
+  ![C](https://img.shields.io/badge/Yacc-red.svg?&style=for-the-badge&logo=yacc&logoColor=white)
 
   
 # Contact💬
